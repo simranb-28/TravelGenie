@@ -64,5 +64,3 @@ pytest tests/ --cov=app
 MIT License
 
 ---
-
-Built with ❤️ by Simran Bhatti
